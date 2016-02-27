@@ -1,3 +1,4 @@
+package ru.stqa.homework.sandbox;
 
 public class HomeWork2 {
   public static void main(String[] args) {
@@ -17,7 +18,7 @@ public class HomeWork2 {
 }
 
 /*
- public static double distance (Point p1, Point p2) {
+ public static double distance (ru.stqa.homework.sandbox.Point p1, ru.stqa.homework.sandbox.Point p2) {
         return Math.sqrt((p2.x - p1.x)*(p2.x - p1.x)+(p2.y - p1.y)*(p2.y - p1.y));
     }
  System.out.println("Расстояние между координатами " + distance(p1, p2));
